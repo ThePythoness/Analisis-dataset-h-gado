@@ -38,3 +38,11 @@ Estudio de las interrelaciones entre variables:
 1. Clona el repositorio:
    ```bash
    git clone [https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO.git](https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO.git)
+2. Instala las dependencias:
+   ```bash
+   pip install pandas seaborn matplotlib
+3. Ejecuta el script principal o abre el notebook para ver los resultados.
+
+## 📄 Licencia
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.   
+ 
